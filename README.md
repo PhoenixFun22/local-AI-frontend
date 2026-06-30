@@ -1,7 +1,7 @@
 # local-AI-frontend
 An opensource frontend for Ollama.
 # Requirements: Ollama, Node.js, NPM. Ensure Node.js is added to PATH.
-To run the application, open local-AI-frontend-main in terminal/command prompt and type "NPM install", then "NPM run dev" and open any browser and type the URL: localhost:3000  .
+To run the application, open local-AI-frontend in terminal/command prompt and type "NPM install", then "NPM run dev" and open any browser and type the URL: localhost:3000  .
 # Login not working?
 Open browser console with F12 or right click >> inspect, click console, paste: window.onbeforeunload = function() { return "Stop"; };
 
