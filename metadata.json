@@ -1,6 +1,0 @@
-{
-  "name": "Ollama Chat",
-  "description": "A sleek, dark-themed chat interface for Ollama models with stream messaging, sidebar, and auto-title generation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
